@@ -1,0 +1,9 @@
+.login {
+  text-align: center;
+  position: relative;
+  top: 90px;
+}
+
+.login p {
+  color: #aaa;
+}
